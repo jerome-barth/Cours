@@ -1,0 +1,2 @@
+jupyter nbconvert --to slides Suites_num_gen.ipynb --post serve 
+# retirer #/ et rajouter ?print-pdf puis crtl-P pour sauver en pdf
